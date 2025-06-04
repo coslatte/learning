@@ -31,6 +31,3 @@ Techs and Projects are stored in general in "project" branch:
 ```bash
 git checkout projects
 ```
-
-# electron
-Offers an ecosystem where to code having front-end knowledge and creating multiplatform apps (Windows, Linux, MacOS) usinng Node.js
