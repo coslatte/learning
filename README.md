@@ -4,7 +4,7 @@ Collection of my learning projects.
 # structure
 The way projects are organized:
 - "main" tree (base)
-- "all" tree
+- "projects" tree
     - tech I'm learning
         - project
             - subproject (optional)
@@ -15,16 +15,19 @@ Based on technologies I'm learning.
 # index
 `path (tree) | date-create (mm/dd/yyyy) | title`
 
+Example:
 ```
 root
     projects
         electron
             (6/4/2025) tutorial-electron-app-start
+        burundanga
+            (6/9/2026) GTA-VI-fortran
 ```
 
-# all
-Techs and Projects are stored in general in "all" branch:
+# project
+Techs and Projects are stored in general in "project" branch:
 
-```bach
+```bash
 git checkout all
 ```
