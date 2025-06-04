@@ -4,14 +4,14 @@ Collection of my learning projects.
 # structure
 The way projects are organized:
 - "main" tree (base)
-- "all" tree
+- "projects" tree
     - tech I'm learning
         - project
             - subproject (optional)
 
-# all
-Techs and Projects are stored in general in "all" branch:
+# projects
+Techs and Projects are stored in general in "projects" branch:
 
 ```bach
-git checkout all
+git checkout projects
 ```
