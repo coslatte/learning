@@ -10,8 +10,24 @@ The way projects are organized:
             - subproject (optional)
 
 # projects
-Techs and Projects are stored in general in "projects" branch:
+Based on technologies I'm learning.
 
-```bach
+# index
+`path (tree) | date-create (mm/dd/yyyy) | title`
+
+Example:
+```
+root
+    projects
+        electron
+            (6/4/2025) tutorial-electron-app-start
+        burundanga
+            (6/9/2026) GTA-VI-fortran
+```
+
+# project
+Techs and Projects are stored in general in "project" branch:
+
+```bash
 git checkout projects
 ```
